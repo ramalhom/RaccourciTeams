@@ -1,0 +1,11 @@
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\bin\Release\RaccourciTeams.exe.config
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\bin\Release\RaccourciTeams.exe
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\bin\Release\RaccourciTeams.pdb
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\bin\Release\Microsoft.SharePoint.Client.dll
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\obj\Release\RaccourciTeams.csproj.ResolveComReference.cache
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\obj\Release\RaccourciTeams.csproj.CoreCompileInputs.cache
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\obj\Release\RaccourciTeams.exe
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\obj\Release\RaccourciTeams.pdb
+C:\Users\AdminRamalhoM\source\repos\RaccourciTeams\RaccourciTeams\obj\Release\RaccourciTeams.csprojResolveAssemblyReference.cache
